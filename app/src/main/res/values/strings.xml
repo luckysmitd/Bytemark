@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bytemark Test</string>
+
+    <string name="go">Go</string>
+    <string name="search_cities">Enter \' , \'  separated city names</string>
+
+    <string name="step_1">Step1</string>
+    <string name="step_2">Step2</string>
+
+    <string name="weather_forecast">Forecast</string>
+    <string name="details">Details</string>
+    <string name="date_time_of_forecast">Date &amp; Time of Forecast</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="done">Done</string>
+
+    <string name="permission_required_rationale">Location permission is required to get your city\'s weather forecast</string>
+    <string name="enable_location_message">Location services need to be enabled to fetch your location</string>
+
+</resources>
